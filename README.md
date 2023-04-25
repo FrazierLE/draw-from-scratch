@@ -1,5 +1,3 @@
-# Self-teaching how to create a drawing app
-
-## Built with React
+# Self-teaching myself to create a drawing application from scratch with React
 
 
